@@ -49,7 +49,6 @@ npx skills add https://github.com/eminmirkarimov/emin-mirkarimov-genius --skill 
 ```text
 .
 ├── README.md                                          # Главная презентация и документация репозитория
-├── PROFILE-README.md                                  # Готовая обложка для личного профиля GitHub
 ├── SKILL.md                                           # Главный мега-скилл emin-mirkarimov-genius (Root)
 ├── AGENTS.md                                          # Авто-инструкции для OpenAI Codex, Cursor и Windsurf
 ├── LICENSE                                            # Лицензия MIT
